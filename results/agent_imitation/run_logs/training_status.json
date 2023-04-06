@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1"
+    },
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results/agent_imitation/Agent/Agent-0.onnx",
+                "reward": null,
+                "creation_time": 1679985064.694517,
+                "auxillary_file_paths": [
+                    "results/agent_imitation/Agent/Agent-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results/agent_imitation/Agent/Agent-0.onnx",
+                "reward": null,
+                "creation_time": 1679985184.670491,
+                "auxillary_file_paths": [
+                    "results/agent_imitation/Agent/Agent-0.pt"
+                ]
+            },
+            {
+                "steps": 2688,
+                "file_path": "results/agent_imitation/Agent/Agent-2688.onnx",
+                "reward": null,
+                "creation_time": 1679985266.204191,
+                "auxillary_file_paths": [
+                    "results/agent_imitation/Agent/Agent-2688.pt"
+                ]
+            },
+            {
+                "steps": 5632,
+                "file_path": "results/agent_imitation/Agent/Agent-5632.onnx",
+                "reward": null,
+                "creation_time": 1679985377.823988,
+                "auxillary_file_paths": [
+                    "results/agent_imitation/Agent/Agent-5632.pt"
+                ]
+            },
+            {
+                "steps": 13824,
+                "file_path": "results/agent_imitation/Agent/Agent-13824.onnx",
+                "reward": null,
+                "creation_time": 1679988631.9446259,
+                "auxillary_file_paths": [
+                    "results/agent_imitation/Agent/Agent-13824.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13824,
+            "file_path": "results/agent_imitation/Agent.onnx",
+            "reward": null,
+            "creation_time": 1679988631.9446259,
+            "auxillary_file_paths": [
+                "results/agent_imitation/Agent/Agent-13824.pt"
+            ]
+        }
+    }
+}
